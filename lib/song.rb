@@ -27,7 +27,7 @@ class Song
     @@all.find{|x| x.name == name}
   end 
   
-  def.
+  def. self
   
   
   
