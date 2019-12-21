@@ -10,6 +10,6 @@ class Song
     self.class.all << self
   end
   
-  def self.new 
+  def self.new_bu_name
 
 end
